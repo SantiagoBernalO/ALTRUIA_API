@@ -1,0 +1,22 @@
+Å
+xC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\Mail.csutf-8å
+ÇC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UActividadPecs.csutf-8ñ
+åC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UActividadPecsCategorias.csutf-8è
+ÖC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UEstado_actividad.csutf-8á
+~C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\LoginToken.csutf-8è
+ÖC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\PacienteScoreJSon.csutf-8ï
+ãC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\Properties\AssemblyInfo.csutf-8Ñ
+{C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UAcceso.csutf-8á
+~C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UActividad.csutf-8á
+~C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UAcudiente.csutf-8Ö
+|C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UDocente.csutf-8ê
+ÜC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UEvaluacionInicial.csutf-8Ü
+}C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UPaciente.csutf-8ô
+èC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UResultadoEvaluacionInicial.csutf-8Å
+xC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\URol.csutf-8Ç
+yC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\Utest.csutf-8å
+ÇC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UTipoActividad.csutf-8ä
+ÄC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UTokenCompra.csutf-8É
+zC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\UUsers.csutf-8É
+zC:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\Wraper.csutf-8∑
+´C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\Utilitarios\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8

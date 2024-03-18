@@ -1,0 +1,8 @@
+﻿C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\LActividad.cs
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\LIngresoLogin.cs
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\LPaciente.cs
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\LUserRegistercs.cs
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\Properties\AssemblyInfo.cs
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\app.config
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\DiagramaLogicaDeNegocio.cd
+C:\Users\asant\OneDrive\Escritorio\Andres Bernal\proyectos\proyectoTEAServicios\proyectoTEAServicios\LogicaDeNegocio\packages.config

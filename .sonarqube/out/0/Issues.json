@@ -1,0 +1,2347 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.2-3.23171.7 (d17f7415)",
+        "semanticVersion": "4.5.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'UEvaluacionInicial.id_usuario' nunca se usa",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 21,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Mail.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 13,
+                  "endLine": 44,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecs.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 20,
+                  "endLine": 22,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 20,
+                  "endLine": 29,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Utest.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 20,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UResultadoEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 20,
+                  "endLine": 23,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/LoginToken.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 24,
+                  "endLine": 24,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 14,
+                  "endLine": 27,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcceso.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 20,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 20,
+                  "endLine": 23,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UResultadoEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 21,
+                  "endLine": 27,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 17,
+                  "endLine": 29,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 17,
+                  "endLine": 31,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UResultadoEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 23,
+                  "endLine": 29,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/LoginToken.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 24,
+                  "endLine": 26,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UResultadoEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 20,
+                  "endLine": 31,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecs.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 23,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 17,
+                  "endLine": 33,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/LoginToken.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 29,
+                  "endLine": 28,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecs.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 23,
+                  "endLine": 26,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UResultadoEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 25,
+                  "endLine": 33,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/LoginToken.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 17,
+                  "endLine": 38,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/LoginToken.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 27,
+                  "endLine": 32,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecs.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcudiente.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 17,
+                  "endLine": 40,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecs.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecs.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 23,
+                  "endLine": 31,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcceso.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 20,
+                  "endLine": 26,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcceso.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 25,
+                  "endLine": 28,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcceso.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 35,
+                  "endLine": 30,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 23,
+                  "endLine": 35,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 23,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UAcceso.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 23,
+                  "endLine": 41,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 23,
+                  "endLine": 39,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 20,
+                  "endLine": 45,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 20,
+                  "endLine": 43,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Utest.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 20,
+                  "endLine": 20,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 20,
+                  "endLine": 33,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 23,
+                  "endLine": 36,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UResultadoEvaluacionInicial.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 20,
+                  "endLine": 38,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'UEstado_actividad' to match pascal case naming rules, consider using 'UEstadoactividad'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEstado_actividad.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 15,
+                  "endLine": 7,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/URol.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 20,
+                  "endLine": 22,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEstado_actividad.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 14,
+                  "endLine": 15,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/URol.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 23,
+                  "endLine": 24,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/PacienteScoreJSon.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 17,
+                  "endLine": 15,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/PacienteScoreJSon.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 19,
+                  "endLine": 17,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UEstado_actividad.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 17,
+                  "endLine": 18,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTokenCompra.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 20,
+                  "endLine": 22,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTokenCompra.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 25,
+                  "endLine": 24,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividadPecsCategorias.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 23,
+                  "endLine": 26,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTokenCompra.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTokenCompra.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTipoActividad.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 14,
+                  "endLine": 16,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 14,
+                  "endLine": 24,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTokenCompra.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 25,
+                  "endLine": 26,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTipoActividad.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 17,
+                  "endLine": 18,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UTipoActividad.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 23,
+                  "endLine": 20,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 17,
+                  "endLine": 26,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 17,
+                  "endLine": 28,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 17,
+                  "endLine": 32,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 14,
+                  "endLine": 34,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 14,
+                  "endLine": 30,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/PacienteScoreJSon.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 17,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 17,
+                  "endLine": 32,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 17,
+                  "endLine": 34,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 17,
+                  "endLine": 36,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 17,
+                  "endLine": 36,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 17,
+                  "endLine": 39,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 17,
+                  "endLine": 41,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 14,
+                  "endLine": 38,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UDocente.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 17,
+                  "endLine": 43,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 14,
+                  "endLine": 40,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 17,
+                  "endLine": 42,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 17,
+                  "endLine": 44,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 14,
+                  "endLine": 46,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 17,
+                  "endLine": 26,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 14,
+                  "endLine": 23,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 17,
+                  "endLine": 28,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 17,
+                  "endLine": 32,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 14,
+                  "endLine": 38,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 17,
+                  "endLine": 36,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 14,
+                  "endLine": 34,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 17,
+                  "endLine": 42,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UActividad.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 28,
+                  "endLine": 44,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Wraper.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Wraper.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Wraper.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 23,
+                  "endLine": 16,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 17,
+                  "endLine": 52,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UPaciente.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 17,
+                  "endLine": 50,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 17,
+                  "endLine": 23,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 17,
+                  "endLine": 25,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 14,
+                  "endLine": 21,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 14,
+                  "endLine": 27,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 17,
+                  "endLine": 29,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 20,
+                  "endLine": 31,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2292",
+          "level": "warning",
+          "message": "Make this an auto-implemented property and remove its backing field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/UUsers.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 17,
+                  "endLine": 33,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "Please review this hard-coded password.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/asant/OneDrive/Escritorio/Andres%20Bernal/proyectos/proyectoTEAServicios/proyectoTEAServicios/Utilitarios/Mail.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 37,
+                  "endLine": 50,
+                  "endColumn": 116
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Nunca se usa el campo",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0169)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2292": {
+          "id": "S2292",
+          "shortDescription": "Trivial properties should be auto-implemented",
+          "fullDescription": "Trivial properties, which include no logic but setting and getting a backing field should be converted to auto-implemented properties, yielding cleaner and more readable code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2292",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
